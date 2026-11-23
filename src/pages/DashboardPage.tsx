@@ -52,7 +52,7 @@ export function DashboardPage() {
   return (
     <>
       <PageHeading
-        title="Dashboard"
+        title="Dash"
         description="Monitor your policies, claims, and recent activity."
       >
         {data?.dataMode === 'demo' && (
